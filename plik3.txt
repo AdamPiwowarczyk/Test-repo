@@ -1,0 +1,2 @@
+edycja pliku 3
+amend
